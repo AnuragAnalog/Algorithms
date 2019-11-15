@@ -4,6 +4,8 @@
 
 * Bruteforce
 
+* Divide and Conquer
+
 * Greedy
 
 * Dynamic Programming
